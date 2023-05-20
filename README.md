@@ -1,2 +1,0 @@
-# rwkvs
-RWKV simplified
